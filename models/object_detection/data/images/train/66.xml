@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new</folder>
+	<filename>66.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\Thesis\windows_v1.8.0\windows_v1.8.0\new\66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limit 40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>75</ymin>
+			<xmax>312</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Limit 20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>229</ymin>
+			<xmax>443</xmax>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+</annotation>
